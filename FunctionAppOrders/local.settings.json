@@ -1,0 +1,13 @@
+{
+  "IsEncrypted": false,
+  "Values": {
+    "AzureWebJobsStorage": "",
+    "FUNCTIONS_WORKER_RUNTIME": "dotnet",
+    "MongoDB_Connection": "",
+    "MongoDB_Database": "DBOrderDevPrimeLocal",
+    "MongoDB_Collection": "OrdersHistory"
+  },
+  "Host": {
+    "LocalHttpPort": "7072"
+  }
+}
